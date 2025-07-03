@@ -3,7 +3,7 @@ import joblib
 import re
 
 # Load vectorizer and model
-vectorizer = joblib.load("Tfidf_vectorizer.pkl")
+vectorizer = joblib.load("tfidf_vectorizer.pkl")
 model = joblib.load("email_detection_model.pkl")
 
 # Clean the email text
