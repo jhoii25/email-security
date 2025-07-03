@@ -34,5 +34,5 @@ if st.button("🔍 Check Email"):
             st.success("✅ This email is Legit.")
 
 st.write("Made with ❤ by Ike-uchendu Joy .C.")
-st.write("Source code: [GitHub](https://github.com/email-security-app/email_detector_app.py)")
+st.write("Source code: [GitHub](https://github.com/jhoii25/email-security-app/email_detector_app.py)")
 
